@@ -2,6 +2,12 @@
   <img src="logo.svg" alt="Test FMUs logo" width="300" height="115">
 </p>
 
+----------
+
+**This repository has been archived. Development is continued on [modelica/Reference-FMUs](https://github.com/modelica/Reference-FMUs).**
+
+----------
+
 # Test FMUs
 
 [![Build Status](https://dev.azure.com/CATIA-Systems/Test-FMUs/_apis/build/status/CATIA-Systems.Test-FMUs?branchName=develop)](https://dev.azure.com/CATIA-Systems/Test-FMUs/_build/latest?definitionId=2&branchName=develop)
